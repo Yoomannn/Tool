@@ -14,13 +14,13 @@ pkg install neofetch
 pip install mechanize
 pip install requests
 pip install bs4
-pip install module
 pip2 install mechanize
 pip2 install requests
 pip2 install bs4
-pip2 install module
 gem install ruby
 gem install figlet
 gem install lolcat
 gem install cowsay
 echo "Jangan DiRecode Bgsd!:v "
+sleep 2
+clear
