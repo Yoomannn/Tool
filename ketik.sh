@@ -21,6 +21,7 @@ gem install ruby
 gem install figlet
 gem install lolcat
 gem install cowsay
+clear
 echo "Jangan DiRecode Bgsd!:v "
 sleep 2
 clear
