@@ -14,18 +14,17 @@ echo
 echo
 echo
 sh ketik.sh
+clear
 toilet -f standard "Welcome" -F gay
-sleep 6
+sleep 4
 clear
 figlet -f slant "Wait" | lolcat
-sleep 1
-echo $i"install bahan dulu gayn"
-sleep 1
+sleep 2
 clear
 echo $cy"==================="$pur" ==================="
 echo $me"█"$bi"  Author  :  Yoomann       "$me"          █"
 echo $ku"█"$bi"  WhatsApp:  089678122xxx"$ku"            █"
-echo $bi"█"$bi"  Gmail   :  romananying@gmail.com"$bi"   █"
+echo $i"█"$bi"  Gmail   :  romananying@gmail.com"$i"   █"
 echo $me"==================="$ku" ==================="
 echo
 echo $bi"-----> Tools"
@@ -81,8 +80,10 @@ if [ $Yoomann = 0 ]
 then
 figlet -f slant "Keluar" | lolcat
 sleep 1
-echo $mer"Keluarr"
-echo $i"Gunakan Dengan Bijak:v"
 echo $bi"--->Fb : Yoomann <---"
+echo $i"Gunakan Dengan Bijak:v"
+echo $mer"Keluar"
+echo
+sleep 1
 exit
 fi
